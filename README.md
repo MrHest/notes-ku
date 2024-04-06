@@ -1,0 +1,2 @@
+# notes-ku
+aplikasi note
